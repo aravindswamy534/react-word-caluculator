@@ -1,0 +1,12 @@
+/* Write your code here. */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1d976c;
+  height: 100vh;
+}
+.img {
+  height: 62vh;
+}
